@@ -1,0 +1,17 @@
+{
+    "name": "ozdoev/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Ozdoev\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Akhmed-Ozdoev",
+            "email": "ozdoev.akhmed11@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": ">=2"
+    }
+}
